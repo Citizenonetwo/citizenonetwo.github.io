@@ -51,6 +51,9 @@ margin-top: 9px;
 .header-button-block{
 	max-width: 210px;
 }
+#text-small{
+	margin-top: 20px;
+}
 
 /*Секция портфолио*/
 .portfolio{
